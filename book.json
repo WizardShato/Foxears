@@ -7,7 +7,7 @@
     "gitbook" : "2.6.4",
     "links" : {
         "sidebar" : {
-            "Home" : "https://zhangjikai.com"
+            "Home" : "https://github.com/WizardShato.com"
         }
     },
    "plugins": [
@@ -61,8 +61,8 @@
         },
 
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy zhangjikai.com 2017",
-            "modify_label": "���ļ��޶�ʱ�䣺",
+            "copyright":"Copyright &copy xiruidong.com 2017",
+            "modify_label": "最近发布时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
 
@@ -70,16 +70,16 @@
             "token" : "ff100361cdce95dd4c8fb96b4009f7bc"
         },
         "sitemap": {
-            "hostname": "https://gitbook.zhangjikai.com"
+            "hostname": "http://wizardshato1.gitbooks.io/gitbook/"
         },
 
         "donate": {
           "wechat": "https://zhangjikai.com/resource/weixin.png",
           "alipay": "https://zhangjikai.com/resource/alipay.png",
           "title": "",
-          "button": "��",
-          "alipayText": "֧��������",
-          "wechatText": "΢�Ŵ���"
+          "button": "打赏",
+          "alipayText": "֧支付宝打赏",
+          "wechatText": "微信打赏"
         },
 
          "edit-link": {
