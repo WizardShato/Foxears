@@ -63,7 +63,7 @@
         },
 
         "baidu": {
-            "token" : "ff100361cdce95dd4c8fb96b4009f7bc"
+            "token" : "YOUR TOKEN"
         },
         "sitemap": {
             "hostname": "http://wizardshato1.gitbooks.io/gitbook/"
@@ -79,7 +79,7 @@
         },
 
         "edit-link": {
-        "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
+        "base": "https://github.com/wizardshato/gitbook-use/edit/master",
         "label": "Edit This Page"
         }
 
