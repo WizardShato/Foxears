@@ -79,7 +79,7 @@
         },
 
         "edit-link": {
-        "base": "https://github.com/wizardshato/gitbook-use/edit/master",
+        "base": "https://github.com/wizardshato/gitbook/edit/master",
         "label": "Edit This Page"
         }
 
