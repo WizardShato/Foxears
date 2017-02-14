@@ -15,7 +15,6 @@
         "-search",
         "search-pro@1.0.7",
         "advanced-emoji@0.1.5",
-        "github",
         "ace",
         "emphasize",
         "katex",
@@ -38,9 +37,6 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "gitbookuse"
-        },
-        "github": {
-            "url": "https://github.com/WizardShato"
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
