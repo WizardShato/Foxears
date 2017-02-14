@@ -57,7 +57,7 @@
         },
 
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy xiruidong.com 2017",
+            "copyright":"",
             "modify_label": "最近发布时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -80,7 +80,7 @@
 
         "edit-link": {
         "base": "https://github.com/wizardshato/gitbook/edit/master",
-        "label": "Edit This Page"
+        "label": "编辑本页"
         }
 
     }
