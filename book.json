@@ -40,7 +40,7 @@
             "shortName": "gitbookuse"
         },
         "github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
+            "url": "https://github.com/WizardShato"
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
@@ -82,10 +82,7 @@
           "wechatText": "微信打赏"
         },
 
-         "edit-link": {
-                "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
-                "label": "Edit This Page"
-         }
+
 
     }
 }
