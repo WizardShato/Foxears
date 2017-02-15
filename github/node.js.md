@@ -2,7 +2,5 @@
 
 [1.Node.js安装](/github/node.js/node.js.md)
 
-2.
-
-
+[2.Git安装](/Github安装)
 
