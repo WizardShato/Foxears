@@ -1,7 +1,5 @@
 # Git安装
 
-
-
 分布式 : Git版本控制系统是一个分布式的系统, 是用来保存工程源代码历史状态的命令行工具;
 
 保存点 : Git的保存点可以追踪源码中的文件, 并能得到某一个时间点上的整个工程项目额状态; 可以在该保存点将多人提交的源码合并, 也可以会退到某一个保存点上;
@@ -88,7 +86,7 @@ GitHub邮箱 : 该命令后面的邮箱就是GitHub的注册邮箱;
 
 ## 将ssh配置到GitHub中
 
-进入生成的ssh目录 : C:\Documents and Settings\Administrator\.ssh （或者 C:\Users\自己电脑用户名\.ssh）中, 使用记事本打开 id\_rsa.pub 文件, 将该文件中的内容复制;  
+进入生成的ssh目录 : C:\Documents and Settings\Administrator.ssh （或者 C:\Users\自己电脑用户名.ssh）中, 使用记事本打开 id\_rsa.pub 文件, 将该文件中的内容复制;  
 id\_rsa.pub 文件内容 :
 
 ```
@@ -148,4 +146,8 @@ git config --global user.email "13241153187@163.com" //设置邮箱
 旧版Git设置如下图：
 
 ![](http://www.ihref.com/wp-content/uploads/2014/08/git%E9%BB%98%E8%AE%A4%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%BA%93%E8%B7%AF%E5%BE%84%E8%AE%BE%E7%BD%AE.jpg "git默认项目开发库路径设置")
+
+
+
+原文地址：[http://www.ihref.com/read-16377.html](http://www.ihref.com/read-16377.html)
 
