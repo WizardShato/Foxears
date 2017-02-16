@@ -1,7 +1,5 @@
 # meta常用标签
 
-
-
 meta元素共有三个可选属性（http-equiv、name和scheme）和一个必选属性（content），content定义与 http-equiv 或 name 属性相关的元信息
 
 可选属性
@@ -9,7 +7,7 @@ meta元素共有三个可选属性（http-equiv、name和scheme）和一个必�
 | 属性 | 值 | 描述 |
 | :---: | :---: | :---: |
 | http-equiv | content-type / expire / refresh / set-cookie | 把content属性关联到HTTP头部。 |
-| name |  author / description / keywords / generator / revised / others | 把 content 属性关联到一个名称。 |
+| name | author / description / keywords / generator / revised / others | 把 content 属性关联到一个名称。 |
 | sceme | some\_text | 定义用于翻译content属性值得格式 |
 
 必选属性
@@ -72,7 +70,7 @@ http-equiv
 <!-- minimum-scale：允许用户缩放到的最小比例 -->
 <!-- maximum-scale：允许用户缩放到的最大比例 -->
 <!-- user-scalable：是否允许用户缩放 (no/yes)  -->
- 
+
 <!-- uc强制竖屏 -->
 <meta name="screen-orientation" content="portrait">
 <!-- QQ强制竖屏 -->
@@ -85,7 +83,7 @@ http-equiv
 <meta name="browsermode" content="application">
 <!-- QQ应用模式 -->
 <meta name="x5-page-mode" content="app">
- 
+
 <!-- IOS启用 WebApp 全屏模式 -->
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <!-- IOS全屏模式下隐藏状态栏/设置状态栏颜色 content的值为default | black | black-translucent  -->
@@ -94,7 +92,7 @@ http-equiv
 <meta name="apple-mobile-web-app-title" content="标题">
 <!-- IOS添加智能 App 广告条 Smart App Banner -->
 <meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL">
- 
+
 <!-- 去除iphone 识别数字为号码 -->
 <meta name="format-detection" content="telephone=no">
 <!-- 不识别邮箱 -->
