@@ -10,5 +10,5 @@
 * CSS
 * JavaScript
 * UI和交互设计
-* 杂记
+* [杂记](.md)
 
