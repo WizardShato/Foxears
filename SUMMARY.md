@@ -10,5 +10,5 @@
 * [CSS](css.md)
 * [JavaScript](javascript.md)
 * [UI和交互设计](ui.md)
-* 杂记
+* [杂记](.md)
 
