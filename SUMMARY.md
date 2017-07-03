@@ -7,11 +7,11 @@
   * [Git安装](github/node.js/github.md)
   * [GitHub上创建博客主页](github/node.js/abc.md)
   * [Gitbook](github/node.js/gitbook.md)
+* [UI和交互设计](ui.md)
+* [CSS3和动效库](css.md)
 * [HTML5](html5.md)
   * [meta常用标签总结](html5/meta.md)
 * [JavaScript](javascript.md)
   * [Javascript中prototype属性](javascript/javascriptprototype.md)
-* [CSS](css.md)
-* [UI和交互设计](ui.md)
 * [杂记](asc.md)
 
