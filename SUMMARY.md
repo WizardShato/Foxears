@@ -1,7 +1,7 @@
 # Summary
 
 * [兜兜转转](README.md)
-* [About me Foxears简历](about-me-foxearsjian-li.md)
+* [About me Foxears作品集持续更新](about-me-foxearsjian-li.md)
 * [Github和Gitbook](github/node.js.md)
   * [Node.js安装](github/node.js/node.js.md)
   * [Git安装](github/node.js/github.md)
