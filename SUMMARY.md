@@ -1,7 +1,9 @@
 # Summary
 
 * [兜兜转转](README.md)
-* [About me Foxears作品集持续更新](about-me-foxearsjian-li.md)
+* [About me Foxears作品集](about-me-foxearsjian-li.md)
+* [产品PRODUCT](chan-pin-product.md)
+  * [我为什么做产品？](chan-pin-product/wo-wei-shi-yao-xuan-ze-chan-pin-ff1f.md)
 * [Github和Gitbook](github/node.js.md)
   * [Node.js安装](github/node.js/node.js.md)
   * [Git安装](github/node.js/github.md)
@@ -9,10 +11,5 @@
   * [Gitbook](github/node.js/gitbook.md)
 * [UI和交互设计](ui.md)
   * [2017年最新设计尺寸和规范](ui/gei-jiao-hu-dong-hua-zuo-jian-fa.md)
-* [CSS3和动效库](css.md)
-* [HTML5](html5.md)
-  * [meta常用标签总结](html5/meta.md)
-* [JavaScript](javascript.md)
-  * [Javascript中prototype属性](javascript/javascriptprototype.md)
 * [杂记](asc.md)
 
